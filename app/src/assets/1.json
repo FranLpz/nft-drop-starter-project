@@ -1,0 +1,24 @@
+{
+    "name": "Rogue",
+    "symbol": "",
+    "description": "Rogue has the involuntary ability to absorb and sometimes also remove the memories, physical strength, and superpowers of anyone she touches.",
+    "image": "1.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+          "share": 100
+        }
+      ]
+    }
+  }

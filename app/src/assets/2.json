@@ -1,0 +1,24 @@
+{
+    "name": "Wolverine",
+    "symbol": "",
+    "description": "He is a mutant who possesses animal-keen senses, enhanced physical capabilities, a powerful regenerative ability, and three retractable claws in each hand.",
+    "image": "2.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+          "share": 100
+        }
+      ]
+    }
+  }
