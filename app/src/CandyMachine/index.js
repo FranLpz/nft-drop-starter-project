@@ -376,8 +376,8 @@ const CandyMachine = ({ walletAddress }) => {
         >
           Mint NFT
         </button>
-        {isLoadingMints && <p>LOADING MINTS...</p>}
         {mints.length > 0 && renderMintedItems()}
+        {isLoadingMints && <p>LOADING MINTS...</p>}
       </div>
     )
   );
