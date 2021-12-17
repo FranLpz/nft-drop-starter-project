@@ -339,8 +339,8 @@ const CandyMachine = ({ walletAddress }) => {
         console.log("Past Minted NFT", mint)
     
         // Get image URI
-        if (!mints.find((mint) => mint === parse.image)) {
-          setMints((prevState) => [...prevState, parse.image]);
+        if (!mints.find((mint) => mint === parse)) {
+          setMints((prevState) => [...prevState, parse]);
         }
       }
     }
@@ -357,8 +357,9 @@ const CandyMachine = ({ walletAddress }) => {
       <p className="sub-text">Minted Items ✨</p>
       <div className="gif-grid">
         {mints.map((mint) => (
-          <div className="gif-item" key={mint}>
-            <img src={mint} alt={`Minted NFT ${mint}`} />
+          <div className="gif-item" key={mint.name}>
+            <img src={mint.image} alt={`Minted NFT ${mint.name}`} />
+            <p>{mint.name}</p>
           </div>
         ))}
       </div>
