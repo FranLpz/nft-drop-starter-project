@@ -1,0 +1,24 @@
+{
+    "name": "Storm",
+    "symbol": "",
+    "description": "She is able to control the weather and atmosphere and is considered to be one of the most powerful mutants on the planet.",
+    "image": "6.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

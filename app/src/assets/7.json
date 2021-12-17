@@ -1,0 +1,24 @@
+{
+    "name": "Beast",
+    "symbol": "",
+    "description": "(Dr. Henry Philip 'Hank' McCoy) Hank McCoy underwent progressive physiological transformations, possessing ape-like superhuman physical strength and agility, oversized hands and feet, a genius-level intellect, and otherwise normal appearance and speech. ",
+    "image": "7.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "7.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,24 @@
+{
+    "name": "Gambit",
+    "symbol": "",
+    "description": "(Remy Etienne LeBeau) Gambit has the ability to mentally create, control, and manipulate pure kinetic energy to his desire.",
+    "image": "5.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "5.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

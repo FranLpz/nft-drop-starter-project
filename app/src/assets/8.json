@@ -1,0 +1,24 @@
+{
+    "name": "Nightcrawler",
+    "symbol": "",
+    "description": "(Kurt Wagner) He possesses superhuman agility, the ability to teleport, and adhesive hands and feet.",
+    "image": "8.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

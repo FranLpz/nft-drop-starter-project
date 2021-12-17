@@ -1,0 +1,24 @@
+{
+    "name": "Mystique",
+    "symbol": "",
+    "description": "(Raven Darkhölme) She is a shapeshifter who can mimic the appearance and voice of any person with exquisite precision; her natural appearance includes blue skin, red hair and yellow eyes.",
+    "image": "3.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

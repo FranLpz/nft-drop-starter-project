@@ -1,0 +1,24 @@
+{
+    "name": "Magneto",
+    "symbol": "",
+    "description": "(Max Eisenhardt) He is a powerful mutant, who has the ability to generate and control magnetic fields.",
+    "image": "4.png",
+    "collection": {
+        "name": "Mutant Academy",
+        "family": "X-Men"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "4.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "wpep7pfVbZ6VcNrD4dwmguRUoZvNgVHnGRK7BGPxe8c",
+          "share": 100
+        }
+      ]
+    }
+  }

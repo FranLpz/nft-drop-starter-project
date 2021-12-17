@@ -87,6 +87,7 @@ const App = () => {
         <div className="header-container">
           <p className="header">X-Men NFT Collection</p>
           <p className="sub-text">Collect your favorite mutant</p>
+          <p className="sub-text">There are only 9 unique Mutant NFT</p>
           {/* Add the condition to show this only if we don't have a wallet address */}
           {!walletAddress && renderNotConnectedContainer()}
         </div>
