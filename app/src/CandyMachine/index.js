@@ -322,7 +322,9 @@ const CandyMachine = ({ walletAddress }) => {
     });
 
     // Set loading flag.
-    setIsLoadingMints(true);
+    if( itemsRedeemed > 0){
+      setIsLoadingMints(true);
+    }
 
     const data = await fetchHashTable(
       process.env.REACT_APP_CANDY_MACHINE_ID,
